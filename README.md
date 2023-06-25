@@ -15,7 +15,7 @@ super jogos é um projeto de processo seletivo para uma vaga de estágio front-e
 <img src='./img/img_03.png'>
 
 ## Hospedagem
-por ora, o projeto vai ficar hospedado em na azure. segue o link de acesso.
+por ora, o projeto vai ficar hospedado na azure. segue o link de acesso.
 
 Link: http://20.80.241.39:80
 
